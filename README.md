@@ -1,6 +1,6 @@
 # gbuff - A Simple GTK Text Editor
 
-gbuff is a lightweight text editor built with GTK and C, featuring basic text editing capabilities, line numbers, highlighting numbers in opened text and simple formatting options. 
+gbuff is a lightweight text editor built with GTK and C, featuring basic text editing capabilities, line numbers, highlighting numbers in opened text and simple formatting options. Rigth now it is in verly early developmnet state and only serves as concept demonstartor.
 
 Developed and tested on Fedora 40 Cinnamon
 
