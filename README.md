@@ -10,7 +10,7 @@ Developed and tested on Fedora 40 Cinnamon
 - Basic text formatting (bold, italic)
 - Toggleable line numbers
 - Syntax highlighting for numbers
-- Monospace font for better code readability
+- Monospace font for better text readability
 
 ## Installation
 
